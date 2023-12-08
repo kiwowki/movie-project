@@ -10,3 +10,9 @@
     <button @click="searchMovies" type="submit">검색</button>
   </section>
 </template>
+
+<script>
+  export default {
+    
+  }
+</script>

@@ -37,8 +37,8 @@
             <div class="credits">
               <div>
                 <img src="http://image.tmdb.org/t/p/w500/yirl6fEmeXY5xcvJw3nTcCNq9Cw.jpg" alt="" />
-                <p>character</p>
-                <p>name</p>
+                <!-- <p>character</p>
+                <p>name</p> -->
               </div>
               <div>
                 <img src="http://image.tmdb.org/t/p/w500/6Yk5t9RwkdkAT8Qv45934Eez2CA.jpg" alt="" />
@@ -138,7 +138,7 @@
         align-items: center;
 
         .left_img_wrap {
-          padding: 40px;
+          margin: 40px;
           img {
             min-width: 100px;
 
