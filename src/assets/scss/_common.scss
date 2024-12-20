@@ -9,6 +9,8 @@ body {
     margin: 0 auto;
 }
 
+
+
 // 비디오 마우스 아이콘 효과
 .play_icon {
     a {
@@ -49,5 +51,41 @@ body {
         &:hover::after {
             opacity: 1;
         }
+    }
+}
+
+// 언더바 애니메이션
+.to-right-underline {
+    position: relative;
+    padding: 10px 0;
+    margin-right: 5px;
+    transition: all 0.3s;
+
+    // border-radius: 50px;
+    &:after {
+        content: '';
+        position: absolute;
+        left: 0;
+        bottom: 0;
+        width: 0px;
+        height: 1px;
+        margin: 5px 0 0;
+        transition: all 0.2s ease-in-out;
+        transition-duration: 0.3s;
+        opacity: 0;
+        background-color: var(--white);
+    }
+
+    &:hover:after {
+        width: 100%;
+        opacity: 1;
+    }
+
+    &.active {
+        color: var(--yellow);
+    }
+
+    &.active:hover:after {
+        background-color: var(--yellow);
     }
 }

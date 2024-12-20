@@ -14,56 +14,63 @@
     font-weight: 300;
     font-style: normal;
     src: url('https://webfontworld.github.io/NanumSquareNeo/NanumSquareNeo-aLt.eot');
-    src: url('https://webfontworld.github.io/NanumSquareNeo/NanumSquareNeo-aLt.eot?#iefix') format('embedded-opentype'),
-         url('https://webfontworld.github.io/NanumSquareNeo/NanumSquareNeo-aLt.woff2') format('woff2'),
-         url('https://webfontworld.github.io/NanumSquareNeo/NanumSquareNeo-aLt.woff') format('woff'),
-         url('https://webfontworld.github.io/NanumSquareNeo/NanumSquareNeo-aLt.ttf') format("truetype");
+    src:
+        // url('https://webfontworld.github.io/NanumSquareNeo/NanumSquareNeo-aLt.eot?#iefix') format('embedded-opentype'),
+        //      url('https://webfontworld.github.io/NanumSquareNeo/NanumSquareNeo-aLt.woff2') format('woff2'),
+        //      url('https://webfontworld.github.io/NanumSquareNeo/NanumSquareNeo-aLt.woff') format('woff'),
+        url('../font/NanumSquareNeo-aLt.ttf') format("truetype");
     font-display: swap;
-} 
+}
+
 @font-face {
     font-family: 'NanumSquareNeo';
     font-weight: 400;
     font-style: normal;
     src: url('https://webfontworld.github.io/NanumSquareNeo/NanumSquareNeo-bRg.eot');
-    src: url('https://webfontworld.github.io/NanumSquareNeo/NanumSquareNeo-bRg.eot?#iefix') format('embedded-opentype'),
-         url('https://webfontworld.github.io/NanumSquareNeo/NanumSquareNeo-bRg.woff2') format('woff2'),
-         url('https://webfontworld.github.io/NanumSquareNeo/NanumSquareNeo-bRg.woff') format('woff'),
-         url('https://webfontworld.github.io/NanumSquareNeo/NanumSquareNeo-bRg.ttf') format("truetype");
+    src:
+        // url('https://webfontworld.github.io/NanumSquareNeo/NanumSquareNeo-bRg.eot?#iefix') format('embedded-opentype'),
+        //      url('https://webfontworld.github.io/NanumSquareNeo/NanumSquareNeo-bRg.woff2') format('woff2'),
+        //      url('https://webfontworld.github.io/NanumSquareNeo/NanumSquareNeo-bRg.woff') format('woff'),
+        url('../font/NanumSquareNeo-bRg.ttf') format("truetype");
     font-display: swap;
-} 
+}
+
 @font-face {
     font-family: 'NanumSquareNeo';
     font-weight: 700;
     font-style: normal;
     src: url('https://webfontworld.github.io/NanumSquareNeo/NanumSquareNeo-cBd.eot');
-    src: url('https://webfontworld.github.io/NanumSquareNeo/NanumSquareNeo-cBd.eot?#iefix') format('embedded-opentype'),
-         url('https://webfontworld.github.io/NanumSquareNeo/NanumSquareNeo-cBd.woff2') format('woff2'),
-         url('https://webfontworld.github.io/NanumSquareNeo/NanumSquareNeo-cBd.woff') format('woff'),
-         url('https://webfontworld.github.io/NanumSquareNeo/NanumSquareNeo-cBd.ttf') format("truetype");
+    src:
+        // url('https://webfontworld.github.io/NanumSquareNeo/NanumSquareNeo-cBd.eot?#iefix') format('embedded-opentype'),
+        //      url('https://webfontworld.github.io/NanumSquareNeo/NanumSquareNeo-cBd.woff2') format('woff2'),
+        //      url('https://webfontworld.github.io/NanumSquareNeo/NanumSquareNeo-cBd.woff') format('woff'),
+        url('../font/NanumSquareNeo-cBd.ttf') format("truetype");
     font-display: swap;
-} 
+}
+
 @font-face {
     font-family: 'NanumSquareNeo';
     font-weight: 800;
     font-style: normal;
     src: url('https://webfontworld.github.io/NanumSquareNeo/NanumSquareNeo-dEb.eot');
     src: url('https://webfontworld.github.io/NanumSquareNeo/NanumSquareNeo-dEb.eot?#iefix') format('embedded-opentype'),
-         url('https://webfontworld.github.io/NanumSquareNeo/NanumSquareNeo-dEb.woff2') format('woff2'),
-         url('https://webfontworld.github.io/NanumSquareNeo/NanumSquareNeo-dEb.woff') format('woff'),
-         url('https://webfontworld.github.io/NanumSquareNeo/NanumSquareNeo-dEb.ttf') format("truetype");
+        url('https://webfontworld.github.io/NanumSquareNeo/NanumSquareNeo-dEb.woff2') format('woff2'),
+        url('https://webfontworld.github.io/NanumSquareNeo/NanumSquareNeo-dEb.woff') format('woff'),
+        url('../font/NanumSquareNeo-dEb.ttf') format("truetype");
     font-display: swap;
-} 
+}
+
 @font-face {
     font-family: 'NanumSquareNeo';
     font-weight: 900;
     font-style: normal;
     src: url('https://webfontworld.github.io/NanumSquareNeo/NanumSquareNeo-eHv.eot');
     src: url('https://webfontworld.github.io/NanumSquareNeo/NanumSquareNeo-eHv.eot?#iefix') format('embedded-opentype'),
-         url('https://webfontworld.github.io/NanumSquareNeo/NanumSquareNeo-eHv.woff2') format('woff2'),
-         url('https://webfontworld.github.io/NanumSquareNeo/NanumSquareNeo-eHv.woff') format('woff'),
-         url('https://webfontworld.github.io/NanumSquareNeo/NanumSquareNeo-eHv.ttf') format("truetype");
+        url('https://webfontworld.github.io/NanumSquareNeo/NanumSquareNeo-eHv.woff2') format('woff2'),
+        url('https://webfontworld.github.io/NanumSquareNeo/NanumSquareNeo-eHv.woff') format('woff'),
+        url('../font/NanumSquareNeo-eHv.ttf') format("truetype");
     font-display: swap;
-} 
+}
 
 
 // nexonLv1
@@ -73,31 +80,33 @@
     font-style: normal;
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/NexonLv1Gothic/NexonLv1GothicLight.eot');
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/NexonLv1Gothic/NexonLv1GothicLight.eot?#iefix') format('embedded-opentype'),
-         url('https://cdn.jsdelivr.net/gh/webfontworld/NexonLv1Gothic/NexonLv1GothicLight.woff2') format('woff2'),
-         url('https://cdn.jsdelivr.net/gh/webfontworld/NexonLv1Gothic/NexonLv1GothicLight.woff') format('woff'),
-         url('https://cdn.jsdelivr.net/gh/webfontworld/NexonLv1Gothic/NexonLv1GothicLight.ttf') format("truetype");
+        url('https://cdn.jsdelivr.net/gh/webfontworld/NexonLv1Gothic/NexonLv1GothicLight.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/webfontworld/NexonLv1Gothic/NexonLv1GothicLight.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/webfontworld/NexonLv1Gothic/NexonLv1GothicLight.ttf') format("truetype");
     font-display: swap;
 }
+
 @font-face {
     font-family: 'NexonLv1Gothic';
     font-weight: 400;
     font-style: normal;
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/NexonLv1Gothic/NexonLv1GothicRegular.eot');
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/NexonLv1Gothic/NexonLv1GothicRegular.eot?#iefix') format('embedded-opentype'),
-         url('https://cdn.jsdelivr.net/gh/webfontworld/NexonLv1Gothic/NexonLv1GothicRegular.woff2') format('woff2'),
-         url('https://cdn.jsdelivr.net/gh/webfontworld/NexonLv1Gothic/NexonLv1GothicRegular.woff') format('woff'),
-         url('https://cdn.jsdelivr.net/gh/webfontworld/NexonLv1Gothic/NexonLv1GothicRegular.ttf') format("truetype");
+        url('https://cdn.jsdelivr.net/gh/webfontworld/NexonLv1Gothic/NexonLv1GothicRegular.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/webfontworld/NexonLv1Gothic/NexonLv1GothicRegular.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/webfontworld/NexonLv1Gothic/NexonLv1GothicRegular.ttf') format("truetype");
     font-display: swap;
 }
+
 @font-face {
     font-family: 'NexonLv1Gothic';
     font-weight: 700;
     font-style: normal;
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/NexonLv1Gothic/NexonLv1GothicBold.eot');
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/NexonLv1Gothic/NexonLv1GothicBold.eot?#iefix') format('embedded-opentype'),
-         url('https://cdn.jsdelivr.net/gh/webfontworld/NexonLv1Gothic/NexonLv1GothicBold.woff2') format('woff2'),
-         url('https://cdn.jsdelivr.net/gh/webfontworld/NexonLv1Gothic/NexonLv1GothicBold.woff') format('woff'),
-         url('https://cdn.jsdelivr.net/gh/webfontworld/NexonLv1Gothic/NexonLv1GothicBold.ttf') format("truetype");
+        url('https://cdn.jsdelivr.net/gh/webfontworld/NexonLv1Gothic/NexonLv1GothicBold.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/webfontworld/NexonLv1Gothic/NexonLv1GothicBold.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/webfontworld/NexonLv1Gothic/NexonLv1GothicBold.ttf') format("truetype");
     font-display: swap;
 }
 
@@ -114,6 +123,7 @@
         url('https://cdn.jsdelivr.net/gh/webfontworld/hahmlet/Hahmlet-Thin.ttf') format("truetype");
     font-display: swap;
 }
+
 @font-face {
     font-family: 'Hahmlet';
     font-weight: 200;
@@ -125,6 +135,7 @@
         url('https://cdn.jsdelivr.net/gh/webfontworld/hahmlet/Hahmlet-ExtraLight.ttf') format("truetype");
     font-display: swap;
 }
+
 @font-face {
     font-family: 'Hahmlet';
     font-weight: 300;
@@ -136,6 +147,7 @@
         url('https://cdn.jsdelivr.net/gh/webfontworld/hahmlet/Hahmlet-Light.ttf') format("truetype");
     font-display: swap;
 }
+
 @font-face {
     font-family: 'Hahmlet';
     font-weight: 400;
@@ -147,6 +159,7 @@
         url('https://cdn.jsdelivr.net/gh/webfontworld/hahmlet/Hahmlet-Regular.ttf') format("truetype");
     font-display: swap;
 }
+
 @font-face {
     font-family: 'Hahmlet';
     font-weight: 500;
@@ -158,6 +171,7 @@
         url('https://cdn.jsdelivr.net/gh/webfontworld/hahmlet/Hahmlet-Medium.ttf') format("truetype");
     font-display: swap;
 }
+
 @font-face {
     font-family: 'Hahmlet';
     font-weight: 600;
@@ -169,6 +183,7 @@
         url('https://cdn.jsdelivr.net/gh/webfontworld/hahmlet/Hahmlet-SemiBold.ttf') format("truetype");
     font-display: swap;
 }
+
 @font-face {
     font-family: 'Hahmlet';
     font-weight: 700;
@@ -180,6 +195,7 @@
         url('https://cdn.jsdelivr.net/gh/webfontworld/hahmlet/Hahmlet-Bold.ttf') format("truetype");
     font-display: swap;
 }
+
 @font-face {
     font-family: 'Hahmlet';
     font-weight: 800;
@@ -191,6 +207,7 @@
         url('https://cdn.jsdelivr.net/gh/webfontworld/hahmlet/Hahmlet-ExtraBold.ttf') format("truetype");
     font-display: swap;
 }
+
 @font-face {
     font-family: 'Hahmlet';
     font-weight: 900;
@@ -211,9 +228,9 @@
     font-style: normal;
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/mapo/MapoGoldenPier.eot');
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/mapo/MapoGoldenPier.eot?#iefix') format('embedded-opentype'),
-         url('https://cdn.jsdelivr.net/gh/webfontworld/mapo/MapoGoldenPier.woff2') format('woff2'),
-         url('https://cdn.jsdelivr.net/gh/webfontworld/mapo/MapoGoldenPier.woff') format('woff'),
-         url('https://cdn.jsdelivr.net/gh/webfontworld/mapo/MapoGoldenPier.ttf') format("truetype");
+        url('https://cdn.jsdelivr.net/gh/webfontworld/mapo/MapoGoldenPier.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/webfontworld/mapo/MapoGoldenPier.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/webfontworld/mapo/MapoGoldenPier.ttf') format("truetype");
     font-display: swap;
 }
 
@@ -224,63 +241,69 @@
     font-style: normal;
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/Oswald/Oswald-ExtraLight.eot');
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/Oswald/Oswald-ExtraLight.eot?#iefix') format('embedded-opentype'),
-         url('https://cdn.jsdelivr.net/gh/webfontworld/Oswald/Oswald-ExtraLight.woff2') format('woff2'),
-         url('https://cdn.jsdelivr.net/gh/webfontworld/Oswald/Oswald-ExtraLight.woff') format('woff'),
-         url('https://cdn.jsdelivr.net/gh/webfontworld/Oswald/Oswald-ExtraLight.ttf') format("truetype");
+        url('https://cdn.jsdelivr.net/gh/webfontworld/Oswald/Oswald-ExtraLight.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/webfontworld/Oswald/Oswald-ExtraLight.woff') format('woff'),
+        url('../font/Oswald-ExtraLight.ttf') format("truetype");
     font-display: swap;
-} 
+}
+
 @font-face {
     font-family: 'Oswald';
     font-weight: 300;
     font-style: normal;
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/Oswald/Oswald-Light.eot');
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/Oswald/Oswald-Light.eot?#iefix') format('embedded-opentype'),
-         url('https://cdn.jsdelivr.net/gh/webfontworld/Oswald/Oswald-Light.woff2') format('woff2'),
-         url('https://cdn.jsdelivr.net/gh/webfontworld/Oswald/Oswald-Light.woff') format('woff'),
-         url('https://cdn.jsdelivr.net/gh/webfontworld/Oswald/Oswald-Light.ttf') format("truetype");
+        url('https://cdn.jsdelivr.net/gh/webfontworld/Oswald/Oswald-Light.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/webfontworld/Oswald/Oswald-Light.woff') format('woff'),
+        url('../font/Oswald-Light.ttf') format("truetype");
     font-display: swap;
-} 
+}
+
 @font-face {
     font-family: 'Oswald';
     font-weight: 400;
     font-style: normal;
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/Oswald/Oswald-Regular.eot');
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/Oswald/Oswald-Regular.eot?#iefix') format('embedded-opentype'),
-         url('https://cdn.jsdelivr.net/gh/webfontworld/Oswald/Oswald-Regular.woff2') format('woff2'),
-         url('https://cdn.jsdelivr.net/gh/webfontworld/Oswald/Oswald-Regular.woff') format('woff'),
-         url('https://cdn.jsdelivr.net/gh/webfontworld/Oswald/Oswald-Regular.ttf') format("truetype");
+        url('https://cdn.jsdelivr.net/gh/webfontworld/Oswald/Oswald-Regular.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/webfontworld/Oswald/Oswald-Regular.woff') format('woff'),
+        url('../font/Oswald-Regular.ttf') format("truetype");
     font-display: swap;
-} 
+}
+
 @font-face {
     font-family: 'Oswald';
     font-weight: 500;
     font-style: normal;
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/Oswald/Oswald-Medium.eot');
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/Oswald/Oswald-Medium.eot?#iefix') format('embedded-opentype'),
-         url('https://cdn.jsdelivr.net/gh/webfontworld/Oswald/Oswald-Medium.woff2') format('woff2'),
-         url('https://cdn.jsdelivr.net/gh/webfontworld/Oswald/Oswald-Medium.woff') format('woff'),
-         url('https://cdn.jsdelivr.net/gh/webfontworld/Oswald/Oswald-Medium.ttf') format("truetype");
+        url('https://cdn.jsdelivr.net/gh/webfontworld/Oswald/Oswald-Medium.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/webfontworld/Oswald/Oswald-Medium.woff') format('woff'),
+        url('../font/Oswald-Medium.ttf') format("truetype");
     font-display: swap;
 }
+
 @font-face {
     font-family: 'Oswald';
     font-weight: 600;
     font-style: normal;
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/Oswald/Oswald-SemiBold.eot');
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/Oswald/Oswald-SemiBold.eot?#iefix') format('embedded-opentype'),
-         url('https://cdn.jsdelivr.net/gh/webfontworld/Oswald/Oswald-SemiBold.woff2') format('woff2'),
-         url('https://cdn.jsdelivr.net/gh/webfontworld/Oswald/Oswald-SemiBold.woff') format('woff'),
-         url('https://cdn.jsdelivr.net/gh/webfontworld/Oswald/Oswald-SemiBold.ttf') format("truetype");
+        url('https://cdn.jsdelivr.net/gh/webfontworld/Oswald/Oswald-SemiBold.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/webfontworld/Oswald/Oswald-SemiBold.woff') format('woff'),
+        url('../font/Oswald-SemiBold.ttf') format("truetype");
     font-display: swap;
 }
+
 @font-face {
     font-family: 'Oswald';
     font-weight: 700;
     font-style: normal;
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/Oswald/Oswald-Bold.eot');
-    src: url('https://cdn.jsdelivr.net/gh/webfontworld/Oswald/Oswald-Bold.eot?#iefix') format('embedded-opentype'),
-         url('https://cdn.jsdelivr.net/gh/webfontworld/Oswald/Oswald-Bold.woff2') format('woff2'),
-         url('https://cdn.jsdelivr.net/gh/webfontworld/Oswald/Oswald-Bold.woff') format('woff'),
-         url('https://cdn.jsdelivr.net/gh/webfontworld/Oswald/Oswald-Bold.ttf') format("truetype");
+    src:
+        // url('https://cdn.jsdelivr.net/gh/webfontworld/Oswald/Oswald-Bold.eot?#iefix') format('embedded-opentype'),
+        //      url('https://cdn.jsdelivr.net/gh/webfontworld/Oswald/Oswald-Bold.woff2') format('woff2'),
+        //      url('https://cdn.jsdelivr.net/gh/webfontworld/Oswald/Oswald-Bold.woff') format('woff'),
+        url('../font/Oswald-Bold.ttf') format("truetype");
     font-display: swap;
-} 
+}

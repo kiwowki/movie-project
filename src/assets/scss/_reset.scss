@@ -92,9 +92,23 @@ select {
     -webkit-appearance: none;
     -moz-appearance: none;
     appearance: none;
+    outline: none;
     border-radius: 0;
-    font-size: 16px;
+    font-size: 1rem;
     border: 0;
+}
+
+// type이 'search'일 경우 X 표시 제거
+input[type='text']::-webkit-text-decoration,
+input[type='text']::-webkit-text-cancel-button,
+input[type='text']::-webkit-text-results-button,
+input[type='text']::-webkit-text-results-decoration {
+    display:none;
+    -webkit-appearance: none;
+}
+
+button {
+    cursor: pointer;
 }
 
 // 스킵메뉴
