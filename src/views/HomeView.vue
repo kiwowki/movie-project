@@ -192,10 +192,15 @@ watch(
 
   .more_button {
     width: auto;
-    padding: 5px 20px;
+    margin: 40px 0 10px;
     background-color: var(--black);
     color: var(--white);
     // border-radius: 12px;
+    transition: all 0.3s;
+
+    &:hover {
+      color: var(--yellow);
+    }
   }
 }
 </style>

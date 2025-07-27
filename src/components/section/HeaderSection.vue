@@ -38,6 +38,7 @@ const isActive = (name) => route.name === name
       a {
         border: 2px solid var(--yellow);
         display: inline-block;
+        text-align: center;
         font-size: 1.5rem;
         font-family: var(--oswald);
         padding: 2px 15px;
@@ -53,6 +54,12 @@ const isActive = (name) => route.name === name
           color: var(--black100);
         }
       }
+      @media (max-width: 1340px) {
+        a {
+          padding: 0 5px;
+        }
+      }
+
     }
     .header_menu {
       display: flex;
